@@ -1,0 +1,3 @@
+FROM "Ubuntu"
+
+COPY "/src"
